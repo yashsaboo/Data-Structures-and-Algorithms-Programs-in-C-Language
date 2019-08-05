@@ -9,4 +9,4 @@ Codebase includes:	1. Data Structures: Queues (Linear Queue, Priority Queue, Dou
 ## Requirements to run the code
 GNU Compiler Collection
 
-## Contributor: [Yash Saboo](https://github.com/yashsaboo99)
+## Contributor: [Yash Saboo](https://github.com/yashsaboo)

@@ -1,5 +1,5 @@
 # Data Structures and Algorithms Programs in C Language
-C is general-purpose, procedural computer programming language, which is usually the first language taught to an engineering student in an Indian engineering college. It wasn't my first programming language though, since I had started programming in Java during my school years. Data Structure is a fundamental requirement for any Computer Scientist.
+C is a general-purpose, procedural computer programming language, which is usually the first language taught to an engineering student in an Indian engineering college. It wasn't my first programming language though, since I had started programming in Java during my school years. Data Structure is a fundamental requirement for any Computer Scientist.
 
 ## File Details
 Codebase includes:
